@@ -1,0 +1,9 @@
+a.out
+main
+*.json
+cmake_install.cmake_install
+CMakeFiles
+CmakeCache.txt
+fnp4
+Makefile
+main
